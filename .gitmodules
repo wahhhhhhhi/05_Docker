@@ -1,0 +1,3 @@
+[submodule "05_onbuild/dockertext2"]
+	path = 05_onbuild/dockertext2
+	url = https://github.com/wahhhhhhhi/05_Docker.git
